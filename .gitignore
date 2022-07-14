@@ -1,0 +1,12 @@
+.vscode/
+data/
+.DS_Store
+
+pages/
+pages/_pychache_
+setup.sh
+
+sap/
+__pycache__/
+
+appy/
