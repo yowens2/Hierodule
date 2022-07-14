@@ -22,7 +22,9 @@ As per Gartner [2], the analytics and business intelligence platform market has 
 
 With the technology advancements, the organisation today has the pre-eminence of taking data driven decisions and strategize their planning, forecasts based on the same. A profusion of business users do not have time to analyze the data and then secure noteworthy insights. And there are gaps betwixt how the tool produces an output and how the business user can exploit it to interpret it. In accompaniment, it needs a admirable domain knowledge to build business insights from data. Not every user is a business expert. Given a snapshot of data, we would like to fabricate a system which can verbalise a story from the data. The story includes the automation in the sense of being driven by the data, context and personal preferences. In this case, it solves both the problems of the tool usage as well as guiding the user with the data driven intelligence to make business decision. The whole corollary is driven by outcome and effectiveness.
 
+Audience 
 
+People who are exploring Analytics in the field of Asset Health, This is aimed at people who are in Company Analytics Pathways to create a community that starts the prepartion of a Data Driven Culture with a light touch of IBM Garage Band Practise.
 # How to Run
 
 - Clone the repository
